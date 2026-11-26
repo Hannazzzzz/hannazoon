@@ -99,5 +99,10 @@ A ` ```mosaic ` block sets the characters: `fill` (the letters, used in turn), `
 - `site.gmi`: the content
 - `build.py`: turns it into `index.html` (generated, so not kept in the repository)
 - `.github/workflows/deploy.yml`: builds and publishes on every push
+- `LICENSE`: the MIT licence for the code
+
+## Licence
+
+The code is under the [MIT licence](LICENSE): use, change and share it freely, keeping the copyright notice. The name and words on the site are Hanna Zoon's.
 
 Made by Hanna Zoon with Claude.
