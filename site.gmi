@@ -1,0 +1,14 @@
+# Hanna Zoon
+
+```mosaic
+fill: HANNAZOON
+shadow: /
+texture: ". "
+```
+
+=> https://www.linkedin.com/in/hannazoon LinkedIn
+=> https://hannazoon.wordpress.com/ Blog
+=> https://scholar.google.com/citations?user=YDckYHMAAAAJ&hl=en Research
+=> https://www.cphfoodfiles.dk CPHfoodfiles
+=> https://hannazzzzz.github.io/nonograms/ Nonograms
+=> https://github.com/Hannazzzzz GitHub
